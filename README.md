@@ -1,4 +1,5 @@
-# Simon-Game
+# Simon-Game 
+(https://srajiv9496.github.io/Simon-Game/)
 This is an Implementation of JavaScript and Jquery.
 In this the random function generates a random colour and then the Player has to play to press the button generated.
 If the user pressed button is same as of the generated then your game level Increases.
